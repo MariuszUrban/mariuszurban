@@ -16,8 +16,9 @@ based on several APIs coming from cultural institutions from across the globe, a
 
 You can freely browse the collections in different ways: by artist's name, work title, dimensions, year, colors, compositions, by items visible on the photos or just randomly. 
 
-After setting up the account, you can save your findings and categorize them for further use. 
+After setting up the account, you can save your findings, add notes and categorize them for further use. 
 
+The app is not only diracted for cultural researchers and art practioners working as professional, but also for users interested in visual arts.
 
 
 <!--
