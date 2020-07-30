@@ -3,6 +3,10 @@
 <!--
 **MariuszUrban/mariuszurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+After several years of work in artistic industries I decided to enrich my competences and learn to code. I’ve chosen web development as skill that would connect my interests and future goals all together. As enthusiast of many aspects of visual culture, I wanted to learn how to present cultural and entertaining content online, or for example, how I can create tools for knowledge and information exchange - making them also visually appealing and adjusted to individual demands. So, beside learning front-end skills, I’m very interested in getting familiar with aspects of UX design in the nearest future.
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
