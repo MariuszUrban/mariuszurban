@@ -1,41 +1,6 @@
 ### Hi there 👋
 
-After several years of work in artistic industries I decided to enrich my competences and learn to code. I’ve chosen web development as skill that would connect my interests and future goals all together. As enthusiast of many aspects of visual culture, I wanted to learn how to present cultural and entertaining content online, or for example, how I can create tools for knowledge and information exchange - making them also visually appealing and adjusted to individual demands. So, beside learning front-end skills, I’m very interested in getting familiar with aspects of UX design in the nearest future.
-
-🔭 
-### At the moment I'm working on: 
-
-### - Movie for Mood
-movie search app which purpose is to find movie suggestions that are based on user's emotions or feelings. It gives a new way of finding a suitable movie     proposition, matching to user's moods or atmoshpere they are in at the moment. Also, the goal of the app is to propose unique findings of movies you have never heard before and which are definiately worth to watch. 
-
-After creating an account, you can set up your profile and add movies to a watchlist, or just go for quick search. But first, express yourself!  
-
-
-### - Art Finder
-based on several APIs coming from cultural institutions from across the globe, app gathers over three milion reproductions of artistic objects. It's is designed as museum wall, displaying individual pieces based on user's search parameteres. 
-
-You can freely browse the collections in different ways: by artist's name, work title, dimensions, year, colors, compositions, by items visible on the photos or just randomly. 
-
-After setting up the account, you can save your findings, add notes and categorize them for further use. 
-
-The app is not only diracted for cultural researchers and art practioners working as professional, but also for users interested in visual arts.
-
-
-<!--
-**MariuszUrban/mariuszurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After several years of work in artistic industries I decided to enrich my competences and learn to code. I’ve chosen web development as skill that would connect my interests and future goals all together. As enthusiast of many aspects of visual culture, I wanted to learn how to present cultural and entertaining content online, or for example, how I can create tools for knowledge and information exchange - making them also visually appealing and adjusted to individual demands. 
 
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
