@@ -5,10 +5,10 @@
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=MariuszUrban" />  
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszUrban&layout=compact)](https://github.com/MariuszUrban/github-readme-stats" />  
+  <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariuszUrban&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
 
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariuszUrban&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
