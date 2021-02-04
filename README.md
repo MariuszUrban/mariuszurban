@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszUrban&layout=compact)](https://github.com/MariuszUrban/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszUrban&layout=compact)](https://github.com/MariuszUrban/github-readme-stats" />  
 </div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariuszUrban)](https://github.com/MariuszUrban/github-readme-stats)
